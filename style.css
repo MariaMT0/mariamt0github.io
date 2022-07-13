@@ -45,7 +45,8 @@ div#imagen img{
 }
 
 #imagen:hover{
-  transform: scale(1.2); 
+  transform: scale(1.2);
+  left: 400px;
 }
 
 
